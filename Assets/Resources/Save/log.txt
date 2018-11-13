@@ -1,0 +1,198 @@
+desert
+max y = 1.90082
+min y = 10000
+desert
+max y = 1.960092
+min y = 10000
+hills
+max y = 16.9588
+min y = 0
+mountain
+max y = 76.6684
+min y = 0
+desert
+max y = 1.914975
+min y = 0
+mountain
+max y = 82.19013
+min y = 0
+hills
+max y = 20.89183
+min y = 0
+mountain
+max y = 81.15998
+min y = 0
+mountain
+max y = 76.40784
+min y = 0
+hills
+max y = 20.11011
+min y = 0
+mountain
+max y = 75.4838
+min y = 0
+desert
+max y = 1.80811
+min y = 0
+desert
+max y = 1.96965
+min y = 0
+desert
+max y = 1.960456
+min y = 0
+hills
+max y = 18.18919
+min y = 0
+hills
+max y = 18.57641
+min y = 0
+mountain
+max y = 91.01009
+min y = 0
+mountain
+max y = 79.44633
+min y = 0
+mountain
+max y = 91.24191
+min y = 0
+mountain
+max y = 103.431
+min y = 0
+hills
+max y = 19.55455
+min y = 0
+hills
+max y = 21.90426
+min y = 0
+mountain
+max y = 84.79504
+min y = 0
+mountain
+max y = 90.21249
+min y = 0
+mountain
+max y = 76.69618
+min y = 0
+mountain
+max y = 93.87006
+min y = 0
+hills
+max y = 18.16595
+min y = 0
+mountain
+max y = 95.11534
+min y = 0
+mountain
+max y = 98.42641
+min y = 0
+hills
+max y = 18.79791
+min y = 0
+mountain
+max y = 87.60673
+min y = 0
+mountain
+max y = 76.94826
+min y = 0
+mountain
+max y = 86.48032
+min y = 0
+mountain
+max y = 76.755
+min y = 0
+hills
+max y = 18.55117
+min y = 0
+hills
+max y = 22.34255
+min y = 0
+mountain
+max y = 94.60609
+min y = 0
+mountain
+max y = 103.3976
+min y = 0
+mountain
+max y = 90.54823
+min y = 0
+hills
+max y = 17.92585
+min y = 0
+mountain
+max y = 91.18057
+min y = 0
+hills
+max y = 18.42356
+min y = 0
+desert
+max y = 1.8323
+min y = 0
+desert
+max y = 1.883883
+min y = 0
+desert
+max y = 1.885845
+min y = 0
+desert
+max y = 2.069156
+min y = 0
+desert
+max y = 1.92261
+min y = 0
+desert
+max y = 1.910642
+min y = 0
+desert
+max y = 2.027523
+min y = 0
+desert
+max y = 1.91756
+min y = 0
+desert
+max y = 1.784632
+min y = 0
+hills
+max y = 16.73626
+min y = 0
+hills
+max y = 18.83338
+min y = 0
+hills
+max y = 21.05755
+min y = 0
+hills
+max y = 19.6177
+min y = 0
+hills
+max y = 21.00508
+min y = 0
+hills
+max y = 20.89684
+min y = 0
+mountain
+max y = 75.90836
+min y = 0
+mountain
+max y = 99.36481
+min y = 0
+mountain
+max y = 88.88319
+min y = 0
+mountain
+max y = 105.0647
+min y = 0
+desert
+max y = 1.745186
+min y = 0
+mountain
+max y = 96.40953
+min y = 0
+mountain
+max y = 89.54086
+min y = 0
+mountain
+max y = 84.67921
+min y = 0
+mountain
+max y = 75.02594
+min y = 0
